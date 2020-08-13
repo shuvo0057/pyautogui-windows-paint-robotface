@@ -161,17 +161,6 @@ pyautogui.press('enter')
 pyautogui.click(1427, 951)
 pyautogui.hotkey('ctrl', 'A')
 pyautogui.click(1418, 68)
-
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
-# Fuck This Shit
+#update incoming
+#Version 1.0
+#Day 1
